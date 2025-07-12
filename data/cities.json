@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "c4aa",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-11T17:00:33.453Z",
+      "notes": "",
+      "position": {
+        "lat": 40.43022363450862,
+        "lng": -3.6090087890625004
+      }
+    },
+    {
+      "id": "2a62",
+      "cityName": "Olathe",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-07-12T01:22:51.684Z",
+      "notes": "hello",
+      "position": {
+        "lat": 38.41055825094609,
+        "lng": -108.28125000000001
+      }
+    }
+  ]
+}
