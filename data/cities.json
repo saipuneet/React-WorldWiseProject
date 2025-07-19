@@ -47,6 +47,30 @@
         "lat": 38.41055825094609,
         "lng": -108.28125000000001
       }
+    },
+    {
+      "id": "131e",
+      "cityName": "Philadelphia",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-07-19T18:31:17.663Z",
+      "notes": "It a nice trip",
+      "position": {
+        "lat": 39.68182601089365,
+        "lng": -75.74935913085938
+      }
+    },
+    {
+      "id": "b599",
+      "cityName": "Philadelphia",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-07-19T18:39:57.209Z",
+      "notes": "It my apartment",
+      "position": {
+        "lat": 39.684600285356616,
+        "lng": -75.64687728881837
+      }
     }
   ]
 }
